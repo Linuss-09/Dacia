@@ -126,7 +126,7 @@ function Reviews() {
   }
 
   return (
-    <section className=" p-2">
+    <section className=" p-2 my-10">
       {/* main flex kinda container */}
       <div className=" space-y-6 ">
 

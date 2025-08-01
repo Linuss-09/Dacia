@@ -13,10 +13,10 @@ function Navbar() {
         {/* div for links */}
         <div className="px-2">
           <ul className="flex text-white gap-16 items-center ">
-            <li className="hover:text-[#E58411] transition-colors duration-200 "><a href="">Features</a></li>
-            <li className="hover:text-[#E58411] transition-colors duration-200"><a href="">Shop</a></li>
-            <li className="hover:text-[#E58411] transition-colors duration-200"><a href="">About Us</a></li>
-            <li className="hover:text-[#E58411] transition-colors duration-200"><a href="">Contact</a></li>
+            <li className="hover:text-[#E58411] transition-colors duration-200 "><a href="#features">Features</a></li>
+            <li className="hover:text-[#E58411] transition-colors duration-200"><a href="#products">Shop</a></li>
+            <li className="hover:text-[#E58411] transition-colors duration-200"><a href="#experience">About Us</a></li>
+            <li className="hover:text-[#E58411] transition-colors duration-200"><a href="#reviews">Testimonials</a></li>
           </ul>
         </div>
 

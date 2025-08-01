@@ -173,7 +173,7 @@ function Products() {
 
   return (
     // main section
-    <section className="font-raleway border p-4 bg-gray-100">
+    <section className="font-raleway  p-4 bg-gray-100">
       <h3 className="text-[42px] text-center mb-8">Best Selling</h3>
       <div className="mb-10 p-2 flex  justify-center">
         <ul className="bg-gray-200 flex gap-2 px-3 py-2 rounded-2xl">

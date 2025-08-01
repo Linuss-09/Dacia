@@ -4,7 +4,7 @@ import room from '../assets/room.png'
 
 function Experience() {
   return (
-    <section className="pt-[150px] font-raleway pb-[50px] border p-4">
+    <section className="pt-[150px] font-raleway pb-[50px] mb-4 p-4">
         {/* felx container */}
         <div className=" max-w-7xl bg-neutral-100 rounded-2xl mx-auto py-15 px-5 flex gap-35">
             {/* col 1 */}

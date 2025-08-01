@@ -23,12 +23,29 @@ function App() {
           <Hero/>
         </div>
 
-        <Features/>
-        <Products/>
+        <section id="features">
+          <Features/> 
+        </section>
+        
+        <section id="products">
+          <Products/> 
+        </section>
+
+        <section id="experience">
         <Experience/>
-        <Materials/>
-        <Reviews/>
+        </section>
+        
+        <section id="materials">
+          <Materials/>
+        </section>
+
+        <section id="reviews">
+          <Reviews/>
+        </section>
+
+
         <Footer/>
+
       </div>
     </>
   )

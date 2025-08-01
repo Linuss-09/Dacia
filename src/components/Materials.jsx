@@ -6,7 +6,7 @@ import room3 from "../assets/room3.png"
 
 function Materials() {
   return (
-    <section className="border p-4 ">
+    <section className="my-20 p-4 ">
         {/* flex container  */}
         <div className=" rounded-2xl bg-gray-100 flex max-w-7xl mx-auto gap-35 p-5">
             {/* col 1 */}
