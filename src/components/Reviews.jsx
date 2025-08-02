@@ -30,7 +30,7 @@ function Reviews() {
       profileImg: jon,
       name: "Jon Snow",
       title: "King in the North",
-      reviewMsg: "Love the bed. Dany agrees… every night.",
+      reviewMsg: "Incredibly comfortable bed. Best sleep I've had in years!",
       rating: 4
     },
     {
@@ -39,7 +39,7 @@ function Reviews() {
       profileImg: dany,
       name: "Daenerys Targareyen",
       title: "Mother of Dragons",
-      reviewMsg: "Their sofa made me forget about the Iron Throne.",
+      reviewMsg: "This sofa is absolutely magnificent. Perfect for royal comfort!",
       rating: 5
     },
     {
@@ -47,8 +47,8 @@ function Reviews() {
       bgImage: r1,
       profileImg: cer,
       name: "Cersei Lannister",
-      title: "Mother of Bastards",
-      reviewMsg: "Great beds… me and Jaime..ahh i mean Robert sleep so well.",
+      title: "Queen ",
+      reviewMsg: "Luxurious furniture fit for royalty. Excellent quality and design.",
       rating: 5
     },
     {
@@ -57,7 +57,7 @@ function Reviews() {
       profileImg: tyr,
       name: "Tyrion Lannister",
       title: "Hand of the Queen",
-      reviewMsg: "The wardrobe is perfect for hiding wine bottles. Five stars!",
+      reviewMsg: "The wardrobe is perfectly sized and beautifully crafted. Five stars!",
       rating: 5
     },
     {
@@ -66,7 +66,7 @@ function Reviews() {
       profileImg: yg,
       name: "Ygritte",
       title: "Lover Beyond the Wall",
-      reviewMsg: "Beds are almost as cozy as our cave, Jon",
+      reviewMsg: "These beds are warmer and cozier than anything beyond the Wall!",
       rating: 4
     },
     {
@@ -84,7 +84,7 @@ function Reviews() {
       profileImg: jamie,
       name: "Jaime Lannister",
       title: "The Kingslayer",
-      reviewMsg: "Great bed… perfect for keeping things in the family.",
+      reviewMsg: "Outstanding craftsmanship and attention to detail. Highly recommend!",
       rating: 4
     },
     {
@@ -93,7 +93,7 @@ function Reviews() {
       profileImg: caty,
       name: "Lady Catelyn Stark",
       title: "Lady of Winterfell",
-      reviewMsg: "This dining table’s great… hopefully no weddings here.",
+      reviewMsg: "Beautiful dining table perfect for family gatherings and celebrations.",
       rating: 5
     },
     {
@@ -102,7 +102,7 @@ function Reviews() {
       profileImg: jorah,
       name: "Ser Jorah",
       title: "Lord of Bear Island",
-      reviewMsg: "Bought this beautiful sofa… still waiting for Dany to notice",
+      reviewMsg: "Exceptional quality sofa. Great investment for any home!",
       rating: 5
     }
   ]
