@@ -35,6 +35,7 @@ function ReviewCard({
                   <div className="flex gap-0.5 justify-center items-center ">
                     {Array.from({length:rating},(_,index) => (
                         <img 
+                        key={index}
                         src={star} 
                         alt="star-icon" 
                         className="w-4 h-4" />

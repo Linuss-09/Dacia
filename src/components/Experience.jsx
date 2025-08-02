@@ -16,7 +16,7 @@ function Experience() {
             <div className="space-y-4 flex-1/2">
                 <h3 className="text-lg mt-4 mb-2 font-bold text-red-900">EXPERIENCE</h3>
                 <h1 className="text-[38px] leading-snug">We Provide You the Best Experience</h1>
-                <p className="text-[18px]">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magni porro, aspernatur atque sit tenetur maiores Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto repudiandae placeat, saepe ullam esse inventore?</p>
+                <p className="text-[18px]">Discover the perfect blend of style, comfort, and functionality with our curated furniture collection. Our expert team ensures every piece meets the highest standards of quality and design, creating spaces that truly reflect your personality and lifestyle.</p>
 
                 {/* more info link  */}
                 <a href="#" className="flex gap-4 mt-2">

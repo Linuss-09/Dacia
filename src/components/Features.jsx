@@ -8,7 +8,7 @@ function Features() {
       {/*countainer 1 idk xd */}
       <div className="shrink-0 w-1/4 flex flex-col justify-center items-start ">
         <h1 className="text-[40px] font-black leading-relaxed ">Why </h1>
-        <h1 className="text-[40px] font-black leading-relaxed ">Choosing Us ?</h1>
+        <h1 className="text-[40px] font-black leading-relaxed ">Choose Us ?</h1>
       </div>
 
       {/* container 2 */}
@@ -17,8 +17,8 @@ function Features() {
 
         {/* card 1 */}
         <div className=" py-2 flex flex-col ">
-          <h1 className="text-xl font-bold mb-5">Luxary Facilites</h1>
-          <p className="text-lg leading-snug">Lorem ipsum dolor sit amet psum dolor sit amet. Lorem, ipsum dolor. </p>
+          <h1 className="text-xl font-bold mb-5">Luxury Facilities</h1>
+          <p className="text-lg leading-snug">Experience premium quality furniture with exceptional craftsmanship and attention to detail in every piece.</p>
 
           {/* one more div for arrow lmao */}
           <a 
@@ -32,7 +32,7 @@ function Features() {
         {/* card 2 */}
         <div className=" py-2 flex flex-col">
           <h1 className="text-xl font-bold mb-5">Affordable Price</h1>
-          <p className="text-lg leading-snug ">Lorem ipsum dolor sit amet consectetur adipisicing Lorem ipsum dolor sit amet.</p>
+          <p className="text-lg leading-snug ">Get the best value for your money with our competitive pricing and flexible payment options.</p>
 
           {/* one more div for arrow lmao */}
           <a
@@ -46,7 +46,7 @@ function Features() {
         {/* card 3 */}
         <div className=" py-2 ">
           <h1 className="text-xl font-bold mb-5">Many Choices</h1>
-          <p className="text-lg leading-snug">Lorem ipsum dolor sit amet consectetur adipisicing Lorem ipsum dolor sit amet.</p>
+<p className="text-lg leading-snug">Explore our extensive collection of furniture styles, from modern minimalist to classic traditional designs.</p>
 
           {/* one more div for arrow lmao */}
           <a

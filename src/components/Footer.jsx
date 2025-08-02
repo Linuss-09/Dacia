@@ -15,7 +15,7 @@ function Footer() {
             </a>
 
             </h3>
-          <p className="text-base text-gray-700">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil quod aperiam voluptatem laboriosam maxime</p>
+          <p className="text-base text-gray-700">Creating beautiful, functional furniture that transforms your living spaces. Quality craftsmanship meets modern design in every piece we create.</p>
         </div>
 
         {/* servicce ig? */}
@@ -31,11 +31,11 @@ function Footer() {
               </a></li>
             <li className="text-sm text-gray-700 ">
               <a href="">
-              Furnitures
+              Furniture Design
               </a></li>
             <li className="text-sm text-gray-700">
               <a href="">
-              Laptop
+              Custom Orders
               </a></li>
           </ul>
         </div>
@@ -45,8 +45,8 @@ function Footer() {
           <h3 className="text-lg text-gray-900 font-bold">Furniture</h3>
           <ul className="space-y-2">
             <li className="text-sm text-gray-700"><a href="#">Beds</a></li>
-            <li className="text-sm text-gray-700"><a href="#">Sofa</a></li>
-            <li className="text-sm text-gray-700"><a href="#">Almirah</a></li>
+            <li className="text-sm text-gray-700"><a href="#">Sofa and Luxury Chairs</a></li>
+            <li className="text-sm text-gray-700"><a href="#">Wardrobes</a></li>
           </ul>
         </div>
 
@@ -98,7 +98,7 @@ function Footer() {
         <div className="flex gap-10">
           <p className="text-sm">
             <a href="">
-            Terms and Condition
+            Terms and Conditions
             </a>
           </p>
 

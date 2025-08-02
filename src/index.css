@@ -1,6 +1,9 @@
 @import "tailwindcss";
 
 @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Julius+Sans+One&display=swap');
+
 
 html{
   scroll-behavior:smooth;
@@ -9,5 +12,16 @@ html{
 .font-raleway {
   font-family: "Raleway", sans-serif;
   font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.font-josefin{
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.font-julius{
+  font-family: "Julius Sans One", sans-serif;
   font-style: normal;
 }

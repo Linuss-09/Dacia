@@ -10,7 +10,7 @@ function Hero() {
 
       {/* main headline */}
       <h1 className="text-6xl text-gray-100 mb-5 leading-[1.3] ">Make your Interior more Realiistc & Modern </h1>
-      <p className="text-2xl text-gray-100 leading-[1.6] ">Turn your room with Panto into a lot more minimalistic and modern with ease and speed</p>
+      <p className="text-2xl text-gray-100 leading-[1.6] ">Transform your room with Dacia into a more minimalistic and modern space with ease and speed</p>
 
       {/* searchbox div */}
         <div className="mt-12 flex justify-center items-center">

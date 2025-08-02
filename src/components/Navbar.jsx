@@ -4,15 +4,15 @@ import Bag from "../assets/Bag.png"
 function Navbar() {
   return (
     // main div for hedaer
-      <nav className=" text-white font-raleway bg-transparent flex justify-between px-20 py-10 items-center">
+      <nav className=" text-white bg-transparent flex justify-between px-20 py-10 items-center">
         {/* div for logo */}
         <div className="">
-          <a href="" className="font-sans font-bold text-[30px] font-raleway tracking-wide">Dacia</a>
+          <a href="" className="font-bold text-[32px] font-julius tracking-wide">Dacia</a>
         </div>
 
         {/* div for links */}
         <div className="px-2">
-          <ul className="flex text-white gap-16 items-center ">
+          <ul className="flex text-white gap-16 font-raleway items-center ">
             <li className="hover:text-[#E58411] transition-colors duration-200 "><a href="#features">Features</a></li>
             <li className="hover:text-[#E58411] transition-colors duration-200"><a href="#products">Shop</a></li>
             <li className="hover:text-[#E58411] transition-colors duration-200"><a href="#experience">About Us</a></li>

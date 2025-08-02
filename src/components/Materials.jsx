@@ -13,7 +13,7 @@ function Materials() {
             <div className=" space-y-4 flex flex-col justify-center w-1/2">
                 <h3 className="text-lg mt-6 text-red-800 font-bold">MATERIALS</h3>
                 <h1 className="text-[36px] leading-snug ">High Quality Materials for Making Furniture</h1>
-                <p className="text-lg"> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quidem soluta amet alias dolorum voluptate iusto consequatur earum laudantium provident velit praesentium, molestias reprehenderit voluptatem expedita eveniet beatae saepe?</p>
+                <p className="text-lg"> We use only the finest materials in crafting our furniture. From premium hardwoods to durable metals and luxurious fabrics, every piece is built to last and designed to impress with exceptional quality and attention to detail.</p>
 
                 <a href="" className="flex gap-4 font-bold text-lg text-[#9d3c00] ">
                     <p className="">More Info.</p>
