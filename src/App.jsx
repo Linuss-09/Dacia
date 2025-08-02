@@ -8,13 +8,19 @@ import Footer from "./components/Footer"
 import heroImg from "./assets/hero-img.png"
 import Experience from "./components/Experience"
 import Materials from './components/Materials'
+import DesktopWarning from "./components/DesktopWarning"
 
 function App() {
 
   return (
     <>
+    {/* mobile warning  */}
+    <DesktopWarning/>
+
+      <div className="hidden lg:block" >
     {/* body kinda div */}
       <div className="min-h-screen w-full">
+
 
         <div className= "bg-cover bg-center bg-no-repeat min-h-[1080px]"
         style={{backgroundImage: `url(${heroImg})` }}
@@ -45,6 +51,8 @@ function App() {
 
 
         <Footer/>
+
+      </div>
 
       </div>
     </>
